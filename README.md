@@ -8,8 +8,6 @@
 
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=190&section=header&text=Roy%20%2F%20%E7%9B%A7%E5%B0%9A%E7%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Java%20Backend%20%2F%20Full-Stack%20Engineer&descAlignY=62&descSize=18)](https://github.com/aapp52046)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=A78BFA&center=true&vCenter=true&width=760&height=44&lines=Spring%20Boot%20%C2%B7%20React%20%E5%85%A8%E7%AB%AF%E9%96%8B%E7%99%BC%3BJWT%20%C2%B7%20Firebase%20Auth%20%C2%B7%20PostgreSQL%3B%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88%20%C3%97%20%E5%95%8F%E9%A1%8C%E6%8E%92%E6%9F%A5%3BAI%20%E5%8D%94%E4%BD%9C%E9%96%8B%E7%99%BC%20%C2%B7%20n8n%20%E8%87%AA%E5%8B%95%E5%8C%96)](https://git.io/typing-svg)
 
 <br />
@@ -128,9 +126,3 @@
   </a>
   <img src="https://img.shields.io/badge/%E4%BD%8D%E7%BD%AE-%E5%8F%B0%E7%81%A3-555555?style=flat-square" alt="位置：台灣" />
 </p>
-
----
-
-*"把複雜的事，做成可靠的系統。"*
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)](https://github.com/aapp52046)
