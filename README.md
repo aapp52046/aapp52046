@@ -102,12 +102,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aapp52046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapp52046&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" alt="Top Langs" />
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=aapp52046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aapp52046&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
 
-<br />
-
-<img height="165" src="https://streak-stats.demolab.com?user=aapp52046&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+![Streak](https://streak-stats.demolab.com?user=aapp52046&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA)
 
 </div>
 
