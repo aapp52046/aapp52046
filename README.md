@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=700&color=A78BFA&center=true&vCenter=true&width=760&height=44&lines=Spring%20Boot%20%C2%B7%20React%20%E5%85%A8%E7%AB%AF%E9%96%8B%E7%99%BC%3BJWT%20%C2%B7%20Firebase%20Auth%20%C2%B7%20PostgreSQL%3B%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88%20%C3%97%20%E5%95%8F%E9%A1%8C%E6%8E%92%E6%9F%A5%3BAI%20%E5%8D%94%E4%BD%9C%E9%96%8B%E7%99%BC%20%C2%B7%20n8n%20%E8%87%AA%E5%8B%95%E5%8C%96)](https://git.io/typing-svg)
 
