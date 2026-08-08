@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mysql,git,github,maven,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,react,vite,js,html,css,postgres,mysql,git,github,maven,vscode,eclipse&theme=dark)](https://skillicons.dev)
 
 <br />
 
@@ -38,17 +38,19 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
 </div>
 
 | 面向 | 技術 |
 |------|------|
 | 後端 | Java · Spring Boot · Spring MVC · Spring Security · JPA/Hibernate · Maven · RESTful API · JWT |
-| 前端 | React · JavaScript · HTML · CSS · Bootstrap |
+| 前端 | React · Vite · JavaScript · HTML · CSS · Bootstrap |
 | 資料庫 | PostgreSQL · MySQL · SQL |
-| 驗證／工具 | Firebase Auth (Google/GitHub OAuth) · Git · GitHub · Postman · VS Code |
+| 驗證／工具 | Firebase Auth (Google/GitHub OAuth) · Git · GitHub · Postman · VS Code · Eclipse |
 | 輔助 | AI 協作開發（OpenCode／Claude）· n8n 自動化基礎 |
 
 ---
