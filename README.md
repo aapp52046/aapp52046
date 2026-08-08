@@ -63,7 +63,7 @@
 
 ## 🚀 精選專案
 
-### 🪙 UcMarket — 市場預測平台
+### 📈 UcMarket — 市場預測平台
 
 > Spring Boot + React 全端預測市場平台，涵蓋建市、審核、交易、錢包、結算、通知、排行榜等模組。
 
@@ -102,11 +102,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aapp52046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aapp52046&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapp52046&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" alt="Top Langs" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aapp52046&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA)
+<br />
 
-![Streak](https://streak-stats.demolab.com/?user=aapp52046&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA)
+<img height="165" src="https://streak-stats.demolab.com?user=aapp52046&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 
 </div>
 
