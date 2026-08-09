@@ -20,7 +20,7 @@
 
 **開發背景**：Java 全端開發，主力 Spring Boot + React。目前持續完善市場預測平台（Auth、Market、交易、錢包、結算等模組），並練習併發控制與 AI 協作開發流程。
 
-- **現在在學**：Java · Spring Boot · Spring Security · PostgreSQL · React
+- **具備能力**：Java · Spring Boot · Spring Security · PostgreSQL · React
 - **常態工具**：Git · Postman · VS Code · AI 協作（OpenCode／Claude）· n8n 自動化
 - **喜歡的事**：把複雜流程整理成可靠系統，把問題拆開、找到根因、修好它
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 精選專案
+## 🚀 專案展示
 
 ### 📈 UcMarket — 市場預測平台
 
