@@ -66,7 +66,7 @@
 | **技術** | Java · Spring Boot · Spring MVC · PostgreSQL · React |
 | **負責** | User/Auth（JWT、Firebase OAuth）、Market 模組、React 前端與 Admin 後台 |
 | **範圍** | 建市、審核、交易、錢包、結算、通知、排行榜，持續逐一完善 |
-| **Repo** | [ucmarket →](https://github.com/aapp52046/UcMarket) |
+| **Repo** | [ucmarket](https://github.com/aapp52046/UcMarket) |
 
 ### ⚡ Flash-Sale — 併發秒殺練習
 
@@ -76,7 +76,7 @@
 |------|------|
 | **技術** | Java · Spring Boot |
 | **焦點** | 鎖的使用、庫存扣減、併發下的一致性 |
-| **Repo** | [flash-sale →](https://github.com/aapp52046/flash-sale) |
+| **Repo** | [flash-sale](https://github.com/aapp52046/flash-sale) |
 
 ### 🕹️ PixelRealm — 像素遊戲官網
 
@@ -86,7 +86,7 @@
 |------|------|
 | **技術** | HTML · CSS · JavaScript |
 | **內容** | 首頁、介紹、消息、影像專區 |
-| **Repo** | [PixelRealm →](https://github.com/aapp52046/PixelRealm) |
+| **Repo** | [PixelRealm](https://github.com/aapp52046/PixelRealm) |
 
 ---
 
